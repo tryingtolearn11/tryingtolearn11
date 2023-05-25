@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🔭 I'm currently interested and diving into interpreters and compiler construction
+- 🔭 My current interests involve diving into interpreters and compiler construction
 - 🤹 If I'm not actively working on a new project, It's likely that I've picked up a new hobby - I'll be back
 - 📫 Contact me at : damiensingh17@gmail
 
